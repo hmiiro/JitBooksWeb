@@ -1,11 +1,30 @@
 {
-  "name": "starter",
-  "version": "0.1.0",
+  "name": "JitBooksWEB",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.19.0",
+    "bootstrap": "^4.3.1",
+    "invoice-number": "^1.0.6",
+    "moment": "^2.24.0",
+    "node-sass": "^4.13.0",
+    "prop-types": "^15.7.2",
+    "query-string": "^6.9.0",
     "react": "^16.10.2",
+    "react-addons-shallow-compare": "^15.6.2",
+    "react-beautiful-dnd": "^12.1.1",
+    "react-dates": "^21.5.0",
     "react-dom": "^16.10.2",
-    "react-scripts": "3.2.0"
+    "react-icons": "^3.8.0",
+    "react-intl": "^3.6.2",
+    "react-redux": "^7.1.1",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.2.0",
+    "reactstrap": "^8.1.1",
+    "redux": "^4.0.4",
+    "redux-thunk": "^2.3.0",
+    "uuid": "^3.3.3",
+    "uuidv4": "^6.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
